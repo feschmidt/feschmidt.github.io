@@ -85,9 +85,9 @@ author:
   bio              : "PhD student"
   location         : "Delft, The Netherlands"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "felix.e.schmidt<at>gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [ArXiv version here](https://arxiv.org/pdf/1806.11389.pdf)
 
-Recommended citation: Schmidt and Jenkins <i>et al.</i>, <i>Nature Communications</i> <b>9</b>, 4069 (2018).
+Recommended citation: Schmidt and Jenkins _et al._, _Nature Communications_ **9**, 4069 (2018).
