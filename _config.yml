@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Felix Schmidt"
-  avatar           : "profile.png"
+  avatar           : "feschmidt.jpeg"
   bio              : "PhD student"
-  location         : "Delt, The Netherlands"
+  location         : "Delft, The Netherlands"
   employer         :
   pubmed           : ""
   googlescholar    : ""
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/feschmidt1/"
-  orcid            : "http://http://orcid.org/0000-0002-2114-0876"
+  linkedin         : "feschmidt1"
+  orcid            : "http://orcid.org/0000-0002-2114-0876"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             : "https://www.xing.com/profile/Felix_Schmidt139"
+  xing             : "Felix_Schmidt139"
   youtube          :
   wikipedia        :
 
