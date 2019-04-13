@@ -9,26 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.Sc. in Nanostructure technology, University Würzburg (Germany), 2014
+* M.Sc. in Nanostructure technology, University Würzburg (Germany), 2016
+* Ph.D in Physics, TU Delft (Netherlands), 2020 (expected)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
+
+* 10/2013–03/2014: Research Assistant
+  * Nanoplus Nanosystems and Technologies GmbH, Gerbrunn (Germany)
+  * Characterization of semiconductor lasers for infrared spectroscopy
+
+* 08/2013–10/2013: Research Intern
+  * Nanoplus Nanosystems and Technologies GmbH, Gerbrunn (Germany)
+  * Characterization of semiconductor lasers for infrared spectroscopy
+  * Calibration of test sites
   
-Skills
-======
+# Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -36,24 +35,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+# Service and leadership
+
 * Currently signed in to 43 different slack teams
