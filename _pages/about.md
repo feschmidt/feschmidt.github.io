@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the department of Quantum Nanoscience at TU Delft in The Netherlands. In my PhD, I research the use of graphene in superconducting microwave circuits.
+I am a PhD candidate at the department of Quantum Nanoscience at TU Delft in The Netherlands. In my PhD, I research applications and fundamental physics of constriction and graphene Josephson junctions embedded in superconducting microwave circuits.
